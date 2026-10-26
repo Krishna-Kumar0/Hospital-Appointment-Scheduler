@@ -1,0 +1,15 @@
+# Hospital Appointment Scheduler
+
+## Problem Statement
+Traditional healthcare appointment scheduling often involves long waiting times, manual booking errors, lack of real-time visibility into doctor schedules, and frequent double bookings. Patients struggle to find convenient appointment slots, while healthcare providers face administrative burdens in managing their schedules efficiently.
+
+This project aims to solve these issues by providing a centralized full-stack scheduling system where doctors can define their availability and patients can easily book and manage appointments without scheduling conflicts.
+
+## Modules
+
+1. **User Module:** User registration, login, authentication, and role management.
+2. **Patient Module:** Patient profile and patient-related information.
+3. **Doctor Module:** Doctor profiles and relevant professional information.
+4. **Availability Module:** Doctor available days and time slots definition, accounting for occupied slots and preventing conflicting bookings.
+5. **Appointment Module:** Booking and management of appointments by patients.
+6. **Appointment Confirmation Module:** Appointment confirmation handling and relevant status updates.
